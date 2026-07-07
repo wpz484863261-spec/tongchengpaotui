@@ -1,0 +1,6 @@
+{
+  "name": "同城跑腿",
+  "description": "提供极速、可靠、透明的同城帮送、帮买及万能帮跑腿服务，支持实时订单追踪、历史订单管理及个人中心状态切换。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
